@@ -1,5 +1,5 @@
 # OvOpsetup
-ovop setup and download for zip
+ovop setup and download for zip (may not be updated for a long time, use curseforge page instead)
 
 
 Hi! Welcome to the official Github for Overly Optimized and other ports and branches.
